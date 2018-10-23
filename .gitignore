@@ -1,0 +1,8 @@
+cmake-build-debug/
+*.user
+PclSegmentation.config
+*.creator
+*.files
+*.includes
+.idea/
+
